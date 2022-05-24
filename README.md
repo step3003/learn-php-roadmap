@@ -2,6 +2,10 @@
 
 [<img src="assets/images/php-logo.svg" width="250">](https://php.net/)
 
+## my links
+
+1. https://tproger.ru/articles/php-s-nulja-dorozhnaja-karta-razrabotchika-v-2022-godu/
+
 A curated list of resources for [PHP](https://php.net/)
 
 ## Table of Contents
